@@ -25,7 +25,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/mbboy.git
+git clone https://github.com/Mbboy010/Mbboy_web_project.git
 
 # Navigate into the project folder
 cd mbboy
